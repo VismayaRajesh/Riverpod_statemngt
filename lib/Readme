@@ -1,0 +1,7 @@
+//step 1:  Wrapper with ProviderScope.
+// step2 : create state class.
+//step3 : create state notifier class.
+//step4 : create state notifier provider.
+//step 5 : crete object in view.
+//step6 : create a copy with method.
+//step7 : create increment function in controller class.
